@@ -95,9 +95,12 @@ fraud-detection-ml/
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 2. Run model training:
+```bash
 python src/train.py
+```
 
 This will train both models and print evaluation metrics.
 
