@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection using Machine Learning
 
 ## Project Overview
-This project builds an end-to-end machine learning pipeline to detect fraudulent credit card transactions from highly imbalanced real-world data. The goal is not only to train models, but to evaluate them using appropriate metrics and select an operating threshold based on business constraints.
+This project builds an end-to-end machine learning pipeline to detect fraudulent credit card transactions from highly imbalanced real-world data. The goal is not only to train models, but also to evaluate them using appropriate metrics and select an operating threshold based on business constraints.
 
 The project compares a linear baseline model (Logistic Regression) with a non-linear model (Random Forest) and selects the final model based on recall under a fixed precision requirement.
 
