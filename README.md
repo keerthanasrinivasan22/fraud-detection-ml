@@ -86,8 +86,7 @@ fraud-detection-ml/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
-
+```
 
 ---
 
