@@ -74,15 +74,19 @@ Random Forest was selected as the final model because it achieves significantly 
 ---
 
 ## Project Structure
+
+```text
 fraud-detection-ml/
-├── dataset/ # Raw data (gitignored)
-├── notebooks/ # Exploratory analysis
-├── src/ # Reproducible training code
-│ ├── train.py
-│ └── utils.py
-├── reports/ # Metrics and results
+├── dataset/        # Raw data (gitignored)
+├── notebooks/      # Exploratory analysis
+├── src/            # Reproducible training code
+│   ├── train.py
+│   └── utils.py
+├── reports/        # Metrics and results (optional)
+├── .gitignore
 ├── README.md
 └── requirements.txt
+
 
 
 ---
