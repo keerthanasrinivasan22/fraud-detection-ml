@@ -104,7 +104,7 @@ python src/train.py
 
 This will train both models and print evaluation metrics.
 
-Key Learnings
+## Key Learnings
 
 Handling extreme class imbalance
 
